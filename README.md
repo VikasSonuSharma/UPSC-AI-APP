@@ -2,7 +2,7 @@
 A complete agentic ai app to help the UPSC candidates to ask questions and resolve their doubts
 # Document RAG
 
-Ask questions frm my own notes which i prepared during my UPSC preparation. The app splits the PDFs into chunks that follow their headings, stores them in a vector database, finds the passages most relevant to a question, and has an LLM write an answer with citations.
+Ask questions from my own notes which i prepared during my UPSC preparation. The app splits the PDFs into chunks that follow their headings, stores them in a vector database, finds the passages most relevant to a question, and has an LLM write an answer with citations.
 
 It includes:
 
